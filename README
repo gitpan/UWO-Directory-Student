@@ -1,0 +1,61 @@
+NAME
+
+UWO::Directory::Student - Perform lookups using the University of Western
+Ontario's student directory
+
+SYNOPSIS
+
+This module provides a Perl interface to the public directory search system
+which lists current students, staff and faculty at the University of Western
+Ontario. (<http://uwo.ca/westerndir/>)
+
+UWO::Directory is a module with a similar interface capable of aggregating
+search results from multiple directories.
+
+MORE DOCUMENTATION
+
+For documentation, please consult `perldoc UWO::Student'
+
+MAINTAINER
+
+Jonathan Yu <frequency@cpan.org>
+
+FEEDBACK
+
+Please send relevant comments, bug reports, rotten tomatoes and suggestions
+directly to the maintainer noted above.
+
+BUGS
+
+There are no known bugs as of this release. Please send any bug reports to the
+maintainer directly via e-mail.
+
+COPYRIGHT AND LICENSE
+
+Copyright (C) 2007 by Jonathan Yu
+
+Redistribution and use in source/binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+DISCLAIMER OF WARRANTY
+
+This software is provided by the copyright holders and contributors "AS IS" and
+ANY EXPRESS OR IMPLIED WARRANTIES, including, but not limited to, the IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.
+
+In no event shall the copyright owner or contributors be liable for any direct,
+indirect, incidental, special, exemplary or consequential damages (including,
+but not limited to, procurement of substitute goods or services; loss of use,
+data or profits; or business interruption) however caused and on any theory of
+liability, whether in contract, strict liability or tort (including negligence
+or otherwise) arising in any way out of the use of this software, even if
+advised of the possibility of such damage.
+
+$Id: README 3 2007-10-06 12:53:59Z frequency $
