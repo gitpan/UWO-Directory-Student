@@ -1,8 +1,8 @@
 --- #YAML:1.0
 name: UWO-Directory-Student
-abstract: Perform lookups using the University of Western Ontario's student
-directory
-version: 0.01
+abstract: >
+  Perform lookups using the University of Western Ontario's student directory
+version: 0.02
 author:
   - 'Jonathan Yu <frequency@cpan.org>'
 license: bsd
@@ -20,7 +20,7 @@ recommends:
 provides:
   UWO::Directory::Student:
     file: lib/UWO/Directory/Student.pm
-    version: 0.01
+    version: 0.02
 generated_by: hand
 meta-spec:
   version: 1.3

@@ -1,7 +1,7 @@
 # UWO::Directory::Student
 #  Represent a student as an object
 #
-# $Id: Student.pm 9 2007-10-07 23:25:51Z frequency $
+# $Id: Student.pm 10 2007-10-08 13:03:04Z frequency $
 #
 # Copyright (C) 2006-2007 by Jonathan Yu <frequency@cpan.org>
 #
@@ -27,11 +27,11 @@ Ontario's student directory
 
 =head1 VERSION
 
-Version 0.01 ($Id: Student.pm 9 2007-10-07 23:25:51Z frequency $)
+Version 0.02 ($Id: Student.pm 10 2007-10-08 13:03:04Z frequency $)
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
